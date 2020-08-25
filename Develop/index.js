@@ -2,7 +2,7 @@
 
 var inquirer = require("inquirer");
 var fs = require("fs");
-var generateMarkdown = require("./utils/generateMarkdown")
+var generateMarkdown = require("./utils/generateMarkdown");
 
 //Prompting user for inputs
 
@@ -58,7 +58,7 @@ inquirer.prompt([
     type: "list",   
     message: "What license would you like to use?",
     name: "license",
-    choices: ["Apache", "GNU", "MIT", "BSD 2-Clause"]
+    choices: ["MIT", "APACHE", "GPL", "BSD", "None"]
 },
 
 ]).then(answers => {

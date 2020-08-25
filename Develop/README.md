@@ -1,8 +1,8 @@
-# Readme
+# 
 
 ## Description
 
-Readme generator
+
 
 ## Table of Contents
 
@@ -20,23 +20,23 @@ Readme generator
 
 ## Installation
 
-na
+
 
 ## Usage
 
-na
+
 
 ## License
 
-![github license](https://img.shields.io/badge/license-Apache-blue.svg)
+![github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Contribution
 
-na
+
 
 ## Tests
 
-na
+
 
 ## Questions
 
