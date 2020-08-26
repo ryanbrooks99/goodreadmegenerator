@@ -42,7 +42,8 @@ ${data.test}
 
 ## Questions
 
-If you have any questions about that repo please contact me at: ${data.email}
+If you have any questions about the repo please contact me at: ${data.email}
+
 You can find out more about me at [${data.username}](https://github.com/${data.username}/)
 `;
 }

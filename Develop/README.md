@@ -40,5 +40,6 @@
 
 ## Questions
 
-If you have any questions about that repo please contact me at: ryanbrooks99@gmail.com
+If you have any questions about the repo please contact me at: ryanbrooks99@gmail.com
+
 You can find out more about me at [ryanbrooks99](https://github.com/ryanbrooks99/)
